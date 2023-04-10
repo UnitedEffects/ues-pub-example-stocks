@@ -2,8 +2,8 @@
 
 To use this example you will need to do the following:
 
-1. (Sign up for free with United Effects and register a platform for your Company)[https://core.unitedeffects.com]
-2. (Sign up for free with IEX so you can use their API to query market data)[https://iexcloud.io/]
+1. [Sign up for free with United Effects and register a platform for your Company](https://core.unitedeffects.com)
+2. [Sign up for free with IEX so you can use their API to query market data](https://iexcloud.io/)
 
 Once you've done the above, proceed as follows:
 
